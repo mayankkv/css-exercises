@@ -1,0 +1,13 @@
+.first-button {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.second-button {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.first-button, .second-button {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
